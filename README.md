@@ -1,2 +1,2 @@
 # CS
-Solutions for the university Complex Systems course exercises.
+Solutions to the university Complex Systems Course problem sheets.
